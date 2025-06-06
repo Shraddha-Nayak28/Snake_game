@@ -2,6 +2,8 @@
 
 This is a classic Snake game built using Python and the Pygame library. The game includes a visual grid layout for better aesthetics and gameplay clarity.
 
+---
+
 ## 🎮 How to Play
 
 - Use **Arrow Keys** to control the direction of the snake:
