@@ -23,8 +23,9 @@ This is a classic Snake game built using Python and the Pygame library. The game
 - Score increases with length (internally tracked)
 
 ## Customization
--Easily modify these in the code:
--Speed: Change snake_speed value (lower = slower)
--Colors: Edit the RGB values at the top
--Grid size: Adjust grid_size
--Window size: Change dis_width and dis_height
+
+- Easily modify these in the code:
+- Speed: Change snake_speed value (lower = slower)
+- Colors: Edit the RGB values at the top
+- Grid size: Adjust grid_size
+- Window size: Change dis_width and dis_height
