@@ -14,6 +14,7 @@ This is a classic Snake game built using Python and the Pygame library. The game
 - If you lose, press:
   - `Q` to Quit  
   - `C` to Restart
+  
 
 ## 🧱 Features
 
@@ -21,6 +22,8 @@ This is a classic Snake game built using Python and the Pygame library. The game
 - Snake grows after eating food
 - Game over detection with replay/quit option
 - Score increases with length (internally tracked)
+
+  
 
 ## 🔧 Customization
 
