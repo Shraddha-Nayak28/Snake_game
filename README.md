@@ -22,7 +22,7 @@ This is a classic Snake game built using Python and the Pygame library. The game
 - Game over detection with replay/quit option
 - Score increases with length (internally tracked)
 
-## Customization
+## 🔧 Customization
 
 - Easily modify these in the code:
 - Speed: Change snake_speed value (lower = slower)
